@@ -1,0 +1,15 @@
+body{
+    font-family: Hevelica;
+    background: black;
+    color: white;
+    background-image: url('../public/earf.jpg');
+    background-size: 750px;
+
+    background-repeat: no-repeat;
+}
+
+.container{
+    color: white;
+    width: 402px;
+    margin: 0 auto;
+}
