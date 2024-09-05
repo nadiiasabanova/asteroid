@@ -7,6 +7,7 @@ import AsteroidContext from "../context/AsteroidContext";
 
 function Home() {
 
+
     const{near, setNear, keys, setKeys, cart}= useContext(AsteroidContext);
     const [isLoading, setIsLoading] = useState(true);
     const [isKilometers, setIsKilometers] = useState(true);
